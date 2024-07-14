@@ -11,7 +11,7 @@ public class PlayerMovement : MonoBehaviour
 
     public float speed = 10;
     public float runSpeed = 15;
-    public float jumpForce = 200;
+    public float jumpForce = 300;
 
     private bool isGrounded;
 
